@@ -1,5 +1,6 @@
 # paramiko-lambda
 
+Following tutorial: [Building AWS Lambda Layer with Paramiko](https://medium.com/@arjunkumar.betageri/building-aws-lambda-layer-with-paramiko-f2e988eda3bf)
 
 **Step 1: Build image and zip relevant files** 
 ```
